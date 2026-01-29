@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=20| CS Student | Tech Enthusiast | Coding my future, line by line&fontSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=20%20%7C%20CS%20Student%20%7C%20Tech%20Enthusiast%20%7C%20Coding%20my%20future,%20line%20by%20line&fontSize=22" width="100%" />
 </p>
 
 
